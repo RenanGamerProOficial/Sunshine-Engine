@@ -1,4 +1,4 @@
-package api;
+package options;
 
 import flash.events.Event;
 import flash.events.IOErrorEvent;
